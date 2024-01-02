@@ -11,7 +11,7 @@
   
 <br><div  align="center"> 
   <a href = "mailto:luanateixeiralinhares@gmail.com"><img height="65" width="65" src="https://img.icons8.com/dusk/512/gmail.png" target="_blank"></a>
-  <a href="[https://br.linkedin.com/in/luana-linhares-74780723a?trk=people-guest_people_search-card](https://br.linkedin.com/in/luana-linhares-74780723a?trk=people-guest_people_search-card)" target="_blank"><img height="64" width="64" src="https://img.icons8.com/dusk/512/linkedin--v1.png" target="_blank"></a> 
+  <a href="https://br.linkedin.com/in/luana-linhares-74780723a?trk=people-guest_people_search-card" target="_blank"><img height="64" width="64" src="https://img.icons8.com/dusk/512/linkedin--v1.png" target="_blank"></a> 
 </div>
 
 ## 
