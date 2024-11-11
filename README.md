@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F73F8B&width=435&lines=My+name+is+Luana+Linhares" alt="Typing SVG" /></a>
 </div
   
-- I’m currently learning Back-End Develompent
+- I am currently a junior back-end developer
  <br> <br>
 - <a href="https://github.com/LuanaLinhares?tab=repositories"> ![portfolio](https://img.shields.io/badge/my_repositories-000?style=for-the-badge&logo=ko-fi&logoColor=pink) </a>
 ##
